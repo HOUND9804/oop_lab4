@@ -1,0 +1,22 @@
+<transactions>
+	<transaction>
+		<date>30-01-2017</date>
+		<amount>-100</amount>
+		<description>Deliveroo</description>
+	</transaction>
+	<transaction>
+		<date>30-01-2017</date>
+		<amount>-50</amount>
+		<description>Tesco</description>
+	</transaction>
+	<transaction>
+		<date>01-02-2017</date>
+		<amount>6000</amount>
+		<description>Salary</description>
+	</transaction>
+	<transaction>
+		<date>02-02-2017</date>
+		<amount>2000</amount>
+		<description>Royalties</description>
+	</transaction>
+	<transactions>
